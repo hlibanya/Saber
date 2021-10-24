@@ -1,1 +1,1 @@
-void helloFromRemoveDups();
+void removeDups(char* string);
